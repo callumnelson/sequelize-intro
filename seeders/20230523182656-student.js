@@ -13,6 +13,12 @@ module.exports = {
       gender: 'F', 
       createdAt: date,
       updatedAt: date,
+    },{
+      name: 'Mark',
+      grade: 12,
+      gender: 'M', 
+      createdAt: date,
+      updatedAt: date,
     }])
   },
 
